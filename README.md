@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leavening**
 
-- 🌱 I’m currently learning **Kubernetes, AWS, monitoring**
+- 🌱 I’m currently learning **Kubernetes, AWS, Monitoring**
 
 - 👯 I’m looking to collaborate on **Open Source Devops Tools**
 
