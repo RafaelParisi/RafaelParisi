@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Parisi</h1>
 <h3 align="center">A Devops SRE from Brazil</h3>
 
-- 🔭 I’m currently working on **SRE | Stone **
+- 🔭 I’m currently working on ** SRE | Stone **
 
 - 🌱 I’m currently learning **Kubernetes, AWS, Monitoring**
 
